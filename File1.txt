@@ -1,1 +1,1 @@
-Initial Changes for the repository
+More changes in File1.txt for further demonstration of push and pull. 
