@@ -1,1 +1,1 @@
-More changes in File1.txt for further demonstration of push and pull. 
+More changes in File1.txt for demonstration of push .
